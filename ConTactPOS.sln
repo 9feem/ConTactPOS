@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConTactPOS", "ConTactPOS\ConTactPOS.csproj", "{1250A791-69FE-4E42-ABEE-6DF2F1FEB6CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1250A791-69FE-4E42-ABEE-6DF2F1FEB6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1250A791-69FE-4E42-ABEE-6DF2F1FEB6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1250A791-69FE-4E42-ABEE-6DF2F1FEB6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1250A791-69FE-4E42-ABEE-6DF2F1FEB6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69737A40-1347-4F02-AA18-F817617B9653}
+	EndGlobalSection
+EndGlobal
